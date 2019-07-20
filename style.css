@@ -1,0 +1,22 @@
+.myGif {
+background-color: teal;
+padding: 8px;
+margin: 10px 10px 25px 10px;
+border: none;
+
+}
+
+.input-area {
+    margin: 5px 0px 25px 10px;
+} 
+
+#gif-input {
+margin-bottom: 25px;
+}
+
+#add-gif {
+    background-color: darkblue;
+    padding: 8px;
+    border: none;
+    color: white;
+}
